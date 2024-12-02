@@ -1,4 +1,4 @@
-# To-Do List Application
+# TaskTracker List Application
 
 Uma aplicação para gerenciamento de tarefas, desenvolvida com **Node.js/Express** no back-end e **React** no front-end. Este projeto permite que os usuários criem, atualizem, removam e listem tarefas, com autenticação e autorização seguras.
 
