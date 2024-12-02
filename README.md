@@ -162,3 +162,8 @@ O Redis é utilizado como cache para melhorar o desempenho das operações de au
 
 
 ---
+
+### Clonando o Repositório:
+```bash
+git clone https://github.com/JoaoFelipe76/ToDoList.git
+cd ToDoList
