@@ -65,8 +65,9 @@ Uma aplicação para gerenciamento de tarefas, desenvolvida com **Node.js/Expres
 2. **Instalar dependências e iniciar o servidor:**
 
     ```env
+   cd server
    npm install
-   npm run dev
+   npm start
 
   A API estará disponível em http://localhost:5000.
 
@@ -75,7 +76,7 @@ Uma aplicação para gerenciamento de tarefas, desenvolvida com **Node.js/Expres
 
 1. **Instalar dependências e iniciar o projeto:**
    ```env
-   cd frontend
+   cd client
    npm install
    npm start
 
